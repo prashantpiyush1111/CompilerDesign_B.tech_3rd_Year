@@ -1,0 +1,6 @@
+main ( )
+{
+ int a, b, c ;
+ c = b + c;
+ printf ( "%d" ,c ) ;
+}
